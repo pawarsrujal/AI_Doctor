@@ -56,7 +56,7 @@ GPU-ready, bfloat16 and 4-bit quantization support
 ---
 
 Base Model
-dee/DeepSeek-R1-Distill-Llama-8B
+DeepSeek-R1-Distill-Llama-8B
 
 Loaded using Unsloth for optimized inference and finetuning
 
